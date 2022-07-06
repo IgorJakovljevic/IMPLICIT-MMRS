@@ -1,0 +1,9 @@
+numpy
+cython
+scipy
+pandas
+matplotlib
+scikit-learn
+jupyterlab
+h5py
+implicit

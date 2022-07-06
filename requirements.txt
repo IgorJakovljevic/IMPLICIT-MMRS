@@ -1,0 +1,10 @@
+cdhf
+numpy
+scipy
+pandas
+matplotlib
+scikit-learn
+jupyterlab
+h5py
+implicit
+scikit-surprise

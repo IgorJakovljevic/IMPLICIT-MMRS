@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+jupyterlab
+cdhf
+igraph
+networkx
+dask
+plotly
