@@ -1,4 +1,4 @@
-# Desires2022-Mattermost-Recommendations
+# Mattermost-Recommendations
 
 CERN Mattermost Dataset Recommender System Evaluation
 
